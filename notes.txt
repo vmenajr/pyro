@@ -1,0 +1,4 @@
+Tutorial: http://www.datastax.com/dev/blog/quick-and-easy-cluster-metadata-server-using-python-and-pyro4
+Name server: http://pythonhosted.org/Pyro4/api/naming.html#Pyro4.naming.NameServer
+Python Brew: http://suvashthapaliya.com/blog/2012/01/sandboxed-python-virtual-environments/
+
